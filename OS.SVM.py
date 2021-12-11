@@ -13,7 +13,7 @@ from sklearn import svm;
 from time import perf_counter
 
 ######Data input######
-data_path = 'F:\\Curriculum in SHTech\\Neural signals\\人Task2数据整理\\'
+data_path = data_path\\Neural_signals\\'
 
 person1_os = sio.loadmat(data_path + 'Person1\\OSPerson1.mat')
 person2_os = sio.loadmat(data_path + 'Person2\\OSPerson2.mat')
